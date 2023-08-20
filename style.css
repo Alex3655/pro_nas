@@ -1,0 +1,109 @@
+body {
+    font-family: sans-serif;
+    background-color: #AD66D5;
+    color: white;
+}
+
+header {
+    background-color: #4C036E;
+    height: 130px;
+    flex-shrink: 0;
+    color: white;
+    text-align: center;
+}
+
+.glavnay1 {
+    border: 3px solid black;
+    padding: 20px;
+    border-radius: 23px;
+    font-size: 25px;
+    position: relative;
+    top: 25px;
+    float: left;
+    color: white;
+    left: 8px;
+}
+
+.glavnay2 {
+    border: 3px solid black;
+    padding: 20px;
+    border-radius: 23px;
+    right: 60px;
+    font-size: 25px;
+    position: relative;
+    top: 48px;
+    color: white;
+}
+
+.glavnay3 {
+    border: 3px solid black;
+    padding: 20px;
+    border-radius: 23px;
+    font-size: 25px;
+    position: relative;
+    top: 24px;
+    color: white;
+    float: right;
+    right: 8px;
+}
+
+.glavnay4 {
+    border: 3px solid black;
+    padding: 20px;
+    border-radius: 23px;
+    left: 60px;
+    font-size: 25px;
+    position: relative;
+    top: 48px;
+    color: white;
+}
+
+.glavnay1:hover {
+    font-size: 27px;
+    padding: 26px;
+}
+
+.glavnay2:hover {
+    font-size: 27px;
+    padding: 26px;
+}
+
+.glavnay3:hover {
+    font-size: 27px;
+    padding: 26px;
+}
+
+.glavnay4:hover {
+    font-size: 27px;
+    padding: 26px;
+}
+
+.cccc {
+    text-align: center;
+
+}
+
+.kurs {
+    border: 4px solid rgb(73, 1, 80);
+    padding: 10px;
+    border-radius: 30px;
+}
+
+
+.kurs2 {
+    border: 4px solid rgb(73, 1, 80);
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.kurs3 {
+    border: 4px solid rgb(73, 1, 80);
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.kurs4 {
+    border: 4px solid rgb(73, 1, 80);
+    padding: 10px;
+    border-radius: 30px;
+}
